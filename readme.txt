@@ -1,0 +1,1 @@
+An android app that keep score counts of two different teams for the game of Cricket.
